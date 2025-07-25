@@ -4,11 +4,11 @@
 
 <img  align="right" alt ="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s" />
 
-- 🔭 I’m currently working on **E_Commerce**
+- 🔭 I’m currently working on **Kindwet**
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Flutter ,frontend**
+- 💬 Ask me about **Python ,frontend**
 
 - 📫 How to reach me **mahirpanchal21@gmail.com**
 
